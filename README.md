@@ -5,8 +5,8 @@
 * [Muzei Live Wallpaper](https://github.com/romannurik/muzei) - 这是已经在Playstore上线了的android壁纸应用，点击壁纸界面可以磨砂透明效果以及一般背景效果之间切换，可以自己指定背景图片的来源。最重要的他是开源的。
 * [SimplifyReader](https://github.com/SkillCollege/SimplifyReader) - 一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。
 * [materialistic](https://github.com/hidroh/materialistic) - Material Desgin风格的Hacker News客户端。
- * [BuildingBlocks](https://github.com/tangqi92/BuildingBlocks) - 积木： 一个以知乎日报作为数据展现内容；以抽屉菜单作为功能扩展入口；依循 Material Design 作为主导设计 UI 的应用。
- * [Douya](https://github.com/DreaminginCodeZH/Douya) - 开源的 Material Design 豆瓣客户端。
+* [BuildingBlocks](https://github.com/tangqi92/BuildingBlocks) - 积木： 一个以知乎日报作为数据展现内容；以抽屉菜单作为功能扩展入口；依循 Material Design 作为主导设计 UI 的应用。
+* [Douya](https://github.com/DreaminginCodeZH/Douya) - 开源的 Material Design 豆瓣客户端。
 
 ## 其他
  * [MiCode/FileExplorer小米文件管理器](https://github.com/MiCode/FileExplorer) - 小米文件管理器的开源版，这是一个完整的文件管理程序，虽然界面一般，但是功能相对完善，非常适合用来学习。
