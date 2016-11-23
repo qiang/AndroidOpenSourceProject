@@ -4,6 +4,7 @@
 * [Muzei Live Wallpaper](https://github.com/romannurik/muzei) - 这是已经在Playstore上线了的android壁纸应用，点击壁纸界面可以磨砂透明效果以及一般背景效果之间切换，可以自己指定背景图片的来源。最重要的他是开源的。
 * [Plaid](https://github.com/nickbutcher/plaid) - 一个material design 的使用范例。关注量相当高。Plaid is a showcase of material design that we hope you will keep installed. It pulls in news & inspiration from Designer News, Dribbble & Product Hunt. It demonstrates the use of material principles to create tactile, bold, understandable UIs.
 * [SimplifyReader](https://github.com/SkillCollege/SimplifyReader) - 一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。
+* [OuNews](https://github.com/oubowu/OuNews) - MVP模式的新闻客户端
 * [materialistic](https://github.com/hidroh/materialistic) - Material Desgin风格的Hacker News客户端。
 * [BuildingBlocks](https://github.com/tangqi92/BuildingBlocks) - 积木： 一个以知乎日报作为数据展现内容；以抽屉菜单作为功能扩展入口；依循 Material Design 作为主导设计 UI 的应用。
 * [Douya](https://github.com/DreaminginCodeZH/Douya) - 开源的 Material Design 豆瓣客户端。
