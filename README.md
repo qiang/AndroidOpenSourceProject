@@ -19,6 +19,7 @@
 * [2048-android](https://github.com/uberspot/2048-android) - 2048小游戏，Android版
 * [Timber](https://github.com/naman14/Timber) - Material Design Music Player 一款Material Design 的音乐播放器
 * [AnimeTaste](https://github.com/daimajia/AnimeTaste) - AnimeTaste（品赏艾尼莫）是国内首个关注独立动画的网站。 移动版聚焦更新的全球独立动画的传播，让您随时随地能观看动画，分享快乐给更多好友。品味动画，重拾幻想。
+* [BookReader](https://github.com/JustWayward/BookReader) - "任阅" 网络小说阅读器，实现追书推荐收藏、书籍/标签检索、模拟翻书的翻页效果、缓存书籍、日夜间模式、书签、本地txt/pdf书籍阅读、字体/主题/亮度设置、Wifi传书等功能
 
 ## 别人整理
 
