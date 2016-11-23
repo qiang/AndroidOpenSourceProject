@@ -1,25 +1,25 @@
 # 完整项目
 -----  
 
-## 新闻客户端
 * [Muzei Live Wallpaper](https://github.com/romannurik/muzei) - 这是已经在Playstore上线了的android壁纸应用，点击壁纸界面可以磨砂透明效果以及一般背景效果之间切换，可以自己指定背景图片的来源。最重要的他是开源的。
+* [Plaid](https://github.com/nickbutcher/plaid) - 一个material design 的使用范例。关注量相当高。Plaid is a showcase of material design that we hope you will keep installed. It pulls in news & inspiration from Designer News, Dribbble & Product Hunt. It demonstrates the use of material principles to create tactile, bold, understandable UIs.
 * [SimplifyReader](https://github.com/SkillCollege/SimplifyReader) - 一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。
 * [materialistic](https://github.com/hidroh/materialistic) - Material Desgin风格的Hacker News客户端。
 * [BuildingBlocks](https://github.com/tangqi92/BuildingBlocks) - 积木： 一个以知乎日报作为数据展现内容；以抽屉菜单作为功能扩展入口；依循 Material Design 作为主导设计 UI 的应用。
 * [Douya](https://github.com/DreaminginCodeZH/Douya) - 开源的 Material Design 豆瓣客户端。
 
-## 其他
- * [MiCode/FileExplorer小米文件管理器](https://github.com/MiCode/FileExplorer) - 小米文件管理器的开源版，这是一个完整的文件管理程序，虽然界面一般，但是功能相对完善，非常适合用来学习。
- * [Telegram](https://github.com/DrKLO/Telegram) - Telegram 是一款专注于速度、安全的短信息应用，快速、简单、免费。Telegram 支持群组聊天，最高200人，最高支持分享1GB的视频，其它图片等等更是不在话下。而且所有信息全部支持同步。由于频发的隐私问题，所以 Telegram 也很注重通信安全。
- * [AisenWeiBo](https://github.com/wangdan/AisenWeiBo) - Aisen微博是新浪微博的第三方客户端，UI遵循Material Design：遵循Material Design、发布多图、离线下载、私信（触屏版、颜色主题切换、手势返回，4.4、5.0状态栏变色、离线编辑，定时发布多图、gif、长微博预览。[FrescoDemo](https://github.com/06peng/FrescoDemo) 。
- * [minicat](https://github.com/mcxiaoke/minicat) - 一个简洁的饭否App，支持Android 4.0以上版本。
- * [GithubTrends](https://github.com/laowch/GithubTrends) - 是一个用来看查看 GitHub 热门项目的 Android App, 遵循 Material Design, 支持订阅 50 多种编程语言, 9 种颜色主题切换, 可在上面收藏喜欢的项目。
- * [jianshi](https://github.com/wingjay/jianshi) - jianshi简诗是国人开发的一个用于记录文字信息的 Android 完整应用, 作者仅用了一天便将其开发出来, 并将开发的流程记录成文放到了简书上。
- * [TranslateApp](https://github.com/maoruibin/TranslateApp) - 一个实现『划词翻译』功能的 Android 开源应用。
+* [MiCode/FileExplorer小米文件管理器](https://github.com/MiCode/FileExplorer) - 小米文件管理器的开源版，这是一个完整的文件管理程序，虽然界面一般，但是功能相对完善，非常适合用来学习。
+* [Telegram](https://github.com/DrKLO/Telegram) - Telegram 是一款专注于速度、安全的短信息应用，快速、简单、免费。Telegram 支持群组聊天，最高200人，最高支持分享1GB的视频，其它图片等等更是不在话下。而且所有信息全部支持同步。由于频发的隐私问题，所以 Telegram 也很注重通信安全。
+* [AisenWeiBo](https://github.com/wangdan/AisenWeiBo) - Aisen微博是新浪微博的第三方客户端，UI遵循Material Design：遵循Material Design、发布多图、离线下载、私信（触屏版、颜色主题切换、手势返回，4.4、5.0状态栏变色、离线编辑，定时发布多图、gif、长微博预览。[FrescoDemo](https://github.com/06peng/FrescoDemo) 。
+* [minicat](https://github.com/mcxiaoke/minicat) - 一个简洁的饭否App，支持Android 4.0以上版本。
+* [GithubTrends](https://github.com/laowch/GithubTrends) - 是一个用来看查看 GitHub 热门项目的 Android App, 遵循 Material Design, 支持订阅 50 多种编程语言, 9 种颜色主题切换, 可在上面收藏喜欢的项目。
+* [jianshi](https://github.com/wingjay/jianshi) - jianshi简诗是国人开发的一个用于记录文字信息的 Android 完整应用, 作者仅用了一天便将其开发出来, 并将开发的流程记录成文放到了简书上。
+* [TranslateApp](https://github.com/maoruibin/TranslateApp) - 一个实现『划词翻译』功能的 Android 开源应用。
+* [2048-android](https://github.com/uberspot/2048-android) - 2048小游戏，Android版
+* [Timber](https://github.com/naman14/Timber) - Material Design Music Player 一款Material Design 的音乐播放器
+* [AnimeTaste](https://github.com/daimajia/AnimeTaste) - AnimeTaste（品赏艾尼莫）是国内首个关注独立动画的网站。 移动版聚焦更新的全球独立动画的传播，让您随时随地能观看动画，分享快乐给更多好友。品味动画，重拾幻想。
 
 ## 别人整理
-
-### 开源应用
 
 #### [StylishMusicPlayer](https://github.com/ryanhoo/StylishMusicPlayer)
 > A stylish music player for android device 16+
