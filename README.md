@@ -422,9 +422,6 @@
 #### [哇靠百科](https://github.com/yongbo000/wakao-app)
 > 一款聚合了众多笑话段子、妹子图、微信公众号文章的Android App。
 
-#### [仿最美应用](https://github.com/minxiaoming/NiceAppDemo)
-> 仿最美应用-每日最美的钢琴律动效果
-
 #### [kanxue-android-app](https://github.com/kanxue-team/kanxue-android-app)
 > 看雪安全论坛android客户端
 
