@@ -19,9 +19,10 @@
 * [BookReader](https://github.com/JustWayward/BookReader) - "任阅" 网络小说阅读器，实现追书推荐收藏、书籍/标签检索、模拟翻书的翻页效果、缓存书籍、日夜间模式、书签、本地txt/pdf书籍阅读、字体/主题/亮度设置、Wifi传书等功能
 * [BuildingBlocks](https://github.com/tangqi92/BuildingBlocks) - 积木： 一个以知乎日报作为数据展现内容；以抽屉菜单作为功能扩展入口；依循 Material Design 作为主导设计 UI 的应用。
 * [Douya](https://github.com/DreaminginCodeZH/Douya) - 开源的 Material Design 豆瓣客户端。
-* [minicat](https://github.com/mcxiaoke/minicat) - 一个简洁的饭否App，支持Android 4.0以上版本。
 * [jianshi](https://github.com/wingjay/jianshi) - jianshi简诗是国人开发的一个用于记录文字信息的 Android 完整应用, 作者仅用了一天便将其开发出来, 并将开发的流程记录成文放到了简书上。
 * [MiCode/FileExplorer小米文件管理器](https://github.com/MiCode/FileExplorer) - 小米文件管理器的开源版，这是一个完整的文件管理程序，虽然界面一般，但是功能相对完善，非常适合用来学习。
+
+
 ## 别人整理
 
 #### [StylishMusicPlayer](https://github.com/ryanhoo/StylishMusicPlayer)
