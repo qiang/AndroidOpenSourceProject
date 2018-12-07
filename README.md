@@ -1,5 +1,5 @@
 | **分类** | **开发者 & 项目名称** | **简介** | **Star数** | **最近<br/>更新** |
-| :----: | :----: | :----: | :----: | :----: | :----: |
+| :----: | :----: | :----: | :----: | :----: |
 | 暂未分类 | romannurik / [muzei](https://github.com/romannurik/muzei) | Muzei Live Wallpaper for Android | 896 |  2018-12-06T06:23:36Z |
 | 暂未分类 | nickbutcher / [plaid](https://github.com/nickbutcher/plaid) | An Android app which provides design news & inspiration as well as being an example of implementing material design. | 2504 |  2018-12-04T17:27:16Z |
 | 暂未分类 | chentao0707 / [SimplifyReader](https://github.com/SkillCollege/SimplifyReader) | 一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。项目采取的是MVP架构开发，由于还是摸索阶段，可能不是很规范。但基本上应该是这么个套路，至少我个人认为是这样的~恩，就是这样的！ | 1697 |  2017-03-24T02:08:28Z |
