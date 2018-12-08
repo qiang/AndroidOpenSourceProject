@@ -8,11 +8,19 @@ import urllib
 import sqlite3
 from jinja2 import FileSystemLoader, Environment
 import config
+import time
 
 __author__ = 'liuqiang'
 
 github_base_url = "https://api.github.com/repos/"
 db_name = "repo.db"
+
+
+# 时间日期格式化的过滤器,把 2018-12-06T06:23:36Z 转换成 2018-12-06 样式
+def datetime_format(t):
+    time_struct0 = time.strptime(t, "%Y-%m-%dT%H:%M:%SZ")
+    str_date = time.strftime("%Y-%m-%d", time_struct0)
+    return str_date
 
 
 def insert2db(data, cursor, conn):
@@ -86,7 +94,8 @@ def build_target_file(projects):
     """ 填充模板
     :param projects: 一个字典列表 [{},{},{}]
     """
-    env = Environment(loader=FileSystemLoader('./'))  # 创建一个包加载器对象
+    env = Environment(loader=FileSystemLoader('./'))  # 创建一个加载器对象
+    env.filters['datetime_format'] = datetime_format
     template = env.get_template('template.md')  # 获取一个模板文件
     result = template.render(projects=projects)  # 渲染
     return result
