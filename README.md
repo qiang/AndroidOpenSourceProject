@@ -1,4 +1,4 @@
-| **分类** | **开发者 & 项目名称** | **简介** | **Star数** | **最近<br/>更新** |
+| **分类** | **开发者 & 项目名称** | **简介** | **Star数** | **更新时间** |
 | :----: | :----: | :----: | :----: | :----: |
 | App | 开发者:romannurik <br/> 项目名:[muzei](https://github.com/romannurik/muzei) | Muzei Live Wallpaper for Android | 896 |  2018-12-06 |
 | App | 开发者:nickbutcher <br/> 项目名:[plaid](https://github.com/nickbutcher/plaid) | An Android app which provides design news & inspiration as well as being an example of implementing material design. | 2503 |  2018-12-04 |
